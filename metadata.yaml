@@ -1,0 +1,42 @@
+_repo: Lettres-a-une-inconnue-Tome-Premier-Precedee-d-une-etude-sur-P-Merimee-par-H-Taine_56473
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Taine, Hippolyte
+    aliases:
+    - Graindorge, Frederic-Thomas
+    - Taine, H. A. (Hippolyte Adolphe)
+    - Taine, Hippolyte Adolphe
+    - Graindorge, Frédéric-Thomas
+    birthdate: 1828
+    deathdate: 1893
+    gutenberg_agent_id: '969'
+    url: http://www.gutenberg.org/2009/agents/969
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Hippolyte_Taine
+    - http://en.wikipedia.org/wiki/Hippolyte_Taine
+creator:
+  author:
+    agent_name: Mérimée, Prosper
+    alias: Merimee, Prosper
+    birthdate: 1803
+    deathdate: 1870
+    gutenberg_agent_id: '920'
+    url: http://www.gutenberg.org/2009/agents/920
+    wikipedia: http://en.wikipedia.org/wiki/Prosper_Mérimée
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2018-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56473'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lettres à une inconnue, Tome Premier
+
+  Précédée d''une étude sur P. Mérimée par H. Taine'
+url: http://www.gutenberg.org/ebooks/56473
