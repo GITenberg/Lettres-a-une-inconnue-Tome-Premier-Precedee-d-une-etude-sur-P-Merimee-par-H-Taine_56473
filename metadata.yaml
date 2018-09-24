@@ -1,5 +1,5 @@
 _repo: Lettres-a-une-inconnue-Tome-Premier-Precedee-d-une-etude-sur-P-Merimee-par-H-Taine_56473
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Taine, Hippolyte
@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - http://fr.wikipedia.org/wiki/Hippolyte_Taine
     - http://en.wikipedia.org/wiki/Hippolyte_Taine
+covers:
+- cover_type: archival
+  image_path: 56473-h/images/cover.jpg
 creator:
   author:
     agent_name: Mérimée, Prosper
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/920
     wikipedia: http://en.wikipedia.org/wiki/Prosper_Mérimée
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56473#Lettres-a-une-inconnue-Tome-Premier-Precedee-d-une-etude-sur-P-Merimee-par-H-Taine
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2018-01-31'
 gutenberg_type: Text
